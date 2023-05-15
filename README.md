@@ -15,7 +15,6 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
 
@@ -32,33 +31,25 @@
 <details>
 <p align="center">
   <a href="https://github.com/devjainofficial">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjainofficial&theme=tokyonight" />
   </a>
   <a href="https://github.com/devjainofficial">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjainofficial&theme=tokyonight" />
   </a>
   <a href="https://github.com/devjainofficial">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjainofficial&theme=tokyonight" />
   </a>
   <a href="https://github.com/devjainofficial">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjainofficial&theme=tokyonight&utcOffset=8" />
   </a>
 </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/devjainofficial">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat" />
   </a>
 </p>
 <!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Make Your Github Profile Like Professionals. Use this code, and use this link "https://github-profile-summary-cards.vercel.app/demo.html" for Profile graphs.
 -->
