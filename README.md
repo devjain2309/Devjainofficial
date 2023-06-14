@@ -7,8 +7,8 @@
         Currently learning to walk in Web without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/devjainofficial">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" target="_blank">
+    <a href="https://www.linkedin.com/in/devjainofficial" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" >
     </a>
 </p>
 
