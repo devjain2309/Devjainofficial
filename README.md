@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Devs! <img src="#" alt="👋"></h1>
+<h1 align="center">Hello, Devs!👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
