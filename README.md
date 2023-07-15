@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Dev.<br>
-        Currently learning to walk in Web without falling on my bottom.<br>
+        Currently learning to walk on the Web without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/devjainofficial" target="_blank">
@@ -24,6 +24,9 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/u/wervlad)
+[![Materialui](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)](https://hub.docker.com/u/wervlad)
+[![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)](https://hub.docker.com/u/wervlad)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
