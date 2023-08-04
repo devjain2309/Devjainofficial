@@ -32,6 +32,11 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
+### Collaboration
+[![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github)](https://github.com/wervlad)
+[![Asana](https://img.shields.io/badge/Asana-black?style=for-the-badge&logo=Asana)](https://github.com/wervlad)
+
+
 <details>
 <p align="center">
   <a href="https://github.com/devjainofficial">
