@@ -10,6 +10,12 @@
     <a href="https://www.linkedin.com/in/devjainofficial" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" >
     </a>
+    <a href="https://www.youtube.com/devjainofficial" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-darkred?style=flat-square&logo=youtube" alt="LinkedIn" >
+    </a>
+    <a href="https://stackoverflow.com/users/15979052/dev-jain" target="_blank">
+        <img src="https://img.shields.io/badge/StackOverflow-black?style=flat-square&logo=stackoverflow" alt="LinkedIn" >
+    </a>
 </p>
 
 ### Languages
@@ -51,6 +57,15 @@
   <a href="https://github.com/devjainofficial">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjainofficial&theme=tokyonight&utcOffset=8" />
   </a>
+    <a href="https://github.com/devjainofficial">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjainofficial&theme=tokyonight&hide_border=true" />
+  </a>
+   <a href="https://github.com/devjainofficial">
+    <img src="https://github-readme-stats.vercel.app/api?username=devjainofficial&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+  </a>
+   <a href="https://github.com/devjainofficial">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjainofficial&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
 </p>
 </details>
 
@@ -59,6 +74,17 @@
     <img src="https://komarev.com/ghpvc/?username=devjainofficial&color=blue&style=flat" />
   </a>
 </p>
+
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devjainofficial&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+-->
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ### You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/devjainofficial) 
+
 <!--
 Make Your Github Profile Like Professionals. Use this code, and use this link "https://github-profile-summary-cards.vercel.app/demo.html" for Profile graphs.
 -->
