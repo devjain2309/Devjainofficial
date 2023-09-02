@@ -19,6 +19,7 @@
 </p>
 
 ### Languages
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/wervlad)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/wervlad)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
