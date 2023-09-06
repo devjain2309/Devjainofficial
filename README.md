@@ -61,12 +61,6 @@
     <a href="https://github.com/devjainofficial">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjainofficial&theme=tokyonight&hide_border=true" />
   </a>
-   <a href="https://github.com/devjainofficial">
-    <img src="https://github-readme-stats.vercel.app/api?username=devjainofficial&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-  </a>
-   <a href="https://github.com/devjainofficial">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjainofficial&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-  </a>
 </p>
 </details>
 
